@@ -1,4 +1,4 @@
-# 👋 Olá! Tudo certo? Meu nome é Nicholas, e sou admirador de linhas de código.
+# 👋 Olá! Tudo certo? Meu nome é Nicholas.
 
 🧠 Aprendendo: Python, lógica de programação  
 🚀 Objetivo: Me tornar programador back-end  
