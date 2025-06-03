@@ -1,4 +1,4 @@
-# 👋 Olá! Tudo certo? Meu nome é Nicholas.
+# 👋 Olá! Tudo certo? Eu sou Nicholas.
 
 🧠 Aprendendo: Python, lógica de programação  
 🚀 Objetivo: Me tornar programador back-end  
@@ -8,6 +8,7 @@
 
 ## 🛠️ Projetos concluidos
 - 📗 Calculadora em Python
+- 📗 Sistema de Automação de Tarefas em Python
 
 ## 🛠️ Projetos em andamento
 - 📙 Sistema de gerenciamento de veículos para a PC/CE (link futuro)
